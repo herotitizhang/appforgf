@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Play with Tony!</string>
+    <string name="play_button_text">Play</string>
+    <string name="pause_button_text">Pause</string>
+    <string name="me">Tony\'s image</string>
+    <string name="background">background_image</string>
+    <string name="beautiful">You are so beautiful :)</string>
+    <string name="wo_de_ge_sheng_li">You are in my song ~</string>
+    <string name="soul_sister"><![CDATA[You are my soulmate <3]]></string>
+</resources>
